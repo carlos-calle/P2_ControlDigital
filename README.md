@@ -5,5 +5,5 @@ Esta práctica tiene como objetivo familiarizar al estudiante con el uso básico
 
 # Reto
 
--Parte A:Utilizar los tres botones del tablero de pruebas para controlar el patrón de encendido de los LED ubicados en forma de matriz 3x3.
--Parte B:Diseñar un sistema que controle dos semáforos (Semáforo A y Semáforo B) ubicados en una intersección perpendicular, usando el enfoque de máquina de estados finita (FSM). 
+-Parte A: Utilizar los tres botones del tablero de pruebas para controlar el patrón de encendido de los LED ubicados en forma de matriz 3x3.
+-Parte B: Diseñar un sistema que controle dos semáforos (Semáforo A y Semáforo B) ubicados en una intersección perpendicular, usando el enfoque de máquina de estados finita (FSM). 
