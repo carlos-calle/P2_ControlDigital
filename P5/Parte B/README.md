@@ -74,5 +74,6 @@ En cada iteración del `loop()`, se lee `millis()`, se ejecuta la lógica del es
 4. Carga el sketch y observa el ciclo de los semáforos.
 
 
-
-<img src="Diagrama_Estados.png" alt="Diagrama de Estados" width="50%"/>
+<div align="center">
+  <img src="Diagrama_Estados.png" alt="Diagrama de Estados" width="50%"/>
+</div>
