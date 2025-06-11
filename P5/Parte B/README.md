@@ -1,1 +1,1 @@
-![Diagrama de Estados](Diagrama_Estados.png)
+<img src="Diagrama_Estados.png" alt="Diagrama de Estados" width="50%"/>
